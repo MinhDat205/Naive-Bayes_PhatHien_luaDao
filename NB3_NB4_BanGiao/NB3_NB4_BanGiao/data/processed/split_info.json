@@ -1,0 +1,11 @@
+{
+  "test_size": 0.2,
+  "random_state": 42,
+  "stratify": "label",
+  "n_clean": 5797,
+  "n_train": 4637,
+  "n_test": 1160,
+  "python": "3.15.2",
+  "pandas": "3.1.1",
+  "sklearn": "1.9.1"
+}

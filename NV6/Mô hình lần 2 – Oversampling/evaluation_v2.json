@@ -1,0 +1,29 @@
+{
+    "model": "TF-IDF + RandomOverSampler + MultinomialNB",
+    "accuracy": 0.9620689655172414,
+    "macro_precision": 0.8860119371266902,
+    "macro_recall": 0.8912726569731076,
+    "macro_f1": 0.8886081901873535,
+    "confusion_matrix": [
+        [
+            952,
+            10,
+            5
+        ],
+        [
+            12,
+            69,
+            6
+        ],
+        [
+            1,
+            10,
+            95
+        ]
+    ],
+    "labels": [
+        "ham",
+        "spam",
+        "smishing"
+    ]
+}

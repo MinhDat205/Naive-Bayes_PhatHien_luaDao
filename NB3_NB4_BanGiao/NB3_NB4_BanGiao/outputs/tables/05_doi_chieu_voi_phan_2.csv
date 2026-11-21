@@ -1,0 +1,14 @@
+﻿Chỉ số,Đếm được bây giờ,Ghi ở Phần 2,Kết quả
+Số dòng,5971,5971,KHỚP
+Số cột,5,5,KHỚP
+ham,4844,4844,KHỚP
+spam,489,489,KHỚP
+smishing,638,638,KHỚP
+TEXT rỗng,0,0,KHỚP
+TEXT trùng sau chuẩn hóa nhẹ (dòng thừa),140,140,KHỚP
+Nội dung xung đột nhãn,34,34,KHỚP
+Dòng có �,145,145,KHỚP
+TEXT thừa khoảng trắng đầu/cuối,254,254,KHỚP
+URL = yes,207,207,KHỚP
+EMAIL = yes,19,19,KHỚP
+PHONE = yes,844,844,KHỚP

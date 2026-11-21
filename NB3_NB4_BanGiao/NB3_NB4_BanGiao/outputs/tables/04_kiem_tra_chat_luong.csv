@@ -1,0 +1,26 @@
+﻿Nhóm kiểm tra,Nội dung kiểm tra,Số dòng
+Thiếu,Ô bị NaN (toàn bộ bảng),0
+Thiếu,Cột LABEL: ô rỗng / chỉ khoảng trắng,0
+Thiếu,Cột TEXT: ô rỗng / chỉ khoảng trắng,0
+Thiếu,Cột URL: ô rỗng / chỉ khoảng trắng,0
+Thiếu,Cột EMAIL: ô rỗng / chỉ khoảng trắng,0
+Thiếu,Cột PHONE: ô rỗng / chỉ khoảng trắng,0
+Trùng,Dòng trùng cả 5 cột (số dòng thừa),17
+Trùng,TEXT trùng nguyên bản (số dòng thừa),22
+Trùng,TEXT trùng sau chuẩn hóa nhẹ (số dòng thừa),140
+Trùng,Nội dung bị gán >= 2 nhãn khác nhau (số nội dung),34
+Trùng,  -> tổng số dòng liên quan,68
+Trùng,Dòng thừa trùng nội dung VÀ cùng nhãn,106
+Định dạng,LABEL không phải chữ thường chuẩn (vd 'Spam'),639
+Định dạng,LABEL có khoảng trắng thừa đầu/cuối,0
+Định dạng,"LABEL ngoài {ham, spam, smishing} (sau chuẩn hóa)",0
+Định dạng,URL: giá trị khác yes/no,0
+Định dạng,URL: viết không đồng nhất (vd 'No' và 'yes'),5764
+Định dạng,EMAIL: giá trị khác yes/no,0
+Định dạng,EMAIL: viết không đồng nhất (vd 'No' và 'yes'),5952
+Định dạng,PHONE: giá trị khác yes/no,0
+Định dạng,PHONE: viết không đồng nhất (vd 'No' và 'yes'),5127
+Định dạng,TEXT có ký tự lỗi mã hóa (�),145
+Định dạng,TEXT có khoảng trắng/tab thừa đầu hoặc cuối,254
+Định dạng,TEXT có nhiều khoảng trắng liên tiếp / tab / xuống dòng,455
+Định dạng,TEXT rất ngắn (< 5 ký tự),6

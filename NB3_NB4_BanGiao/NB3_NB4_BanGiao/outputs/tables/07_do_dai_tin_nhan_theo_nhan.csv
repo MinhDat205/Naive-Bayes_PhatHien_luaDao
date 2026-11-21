@@ -1,0 +1,6 @@
+﻿,len_chars,len_chars,len_chars,len_chars,len_words,len_words,len_words,len_words
+,mean,median,min,max,mean,median,min,max
+label_norm,,,,,,,,
+ham,70.7,53.0,2,910,14.2,11.0,1,171
+spam,133.9,143.0,18,379,23.0,24.0,2,61
+smishing,139.6,146.0,34,383,22.8,24.0,5,68

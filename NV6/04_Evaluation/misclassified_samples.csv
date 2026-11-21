@@ -1,0 +1,88 @@
+﻿id,y_test,y_pred,text_clean,probability_ham,probability_smishing,probability_spam
+89,spam,ham,"welcome to uk-mobile-date this msg is free giving you free calling to 08719839835. future mgs billed at 150p daily. to cancel send ""go stop"" to 89123",0.51963147231548,0.1000630739882706,0.3803054536962518
+5717,spam,ham,"hi ya babe x u 4goten bout me?' scammers getting smart..though this is a regular vodafone no, if you respond you get further prem rate msg/subscription. other nos used also. beware!",0.9920880328458292,0.0041876541042858,0.0037243130498842
+4308,smishing,ham,"congratulations, your cv was reviewed and you have been shortlisted. please complete the job application by dialling 120 *22446#",0.8726724564507008,0.1123803615481966,0.0149471820011022
+5008,spam,ham,2/2 146tf150p win tickets..call 08701417012,0.6548619650069937,0.1422873269701357,0.2028507080228708
+160,spam,ham,87077: kick off a new season with 2wks free goals & news to ur mobile! txt ur club name to 87077 eg villa to 87077,0.4750543756141621,0.0771308721507222,0.4478147522351174
+3702,spam,ham,how about getting in touch with folks waiting for company? just txt back your name and age to opt in! enjoy the community (150p/sms),0.9478654570979932,0.0122363038599419,0.0398982390420618
+5258,spam,ham,"in the simpsons movie released in july 2007 name the band that died at the start of the film? a-green day, b-blue day, c-red day. (send a, b or c)",0.9947472502865106,0.001669398742777,0.0035833509707123
+4918,spam,ham,"sunshine hols. to claim ur med holiday send a stamped self address envelope to drinks on us uk, po box 113, bray, wicklow, eire. quiz starts saturday!",0.3688169832768603,0.2668580078100665,0.3643250089130721
+4627,spam,ham,"did you hear about the new ""divorce barbie""? it comes with all of ken's stuff!",0.9942902878319376,0.0024603013775295,0.0032494107905312
+3026,spam,ham,"hey boys. want hot xxx pics sent direct 2 ur phone? txt porn to 69855, 24hrs free and then just 50p per day. to stop text stopbcm sf wc1n3xx",0.8444140671727975,0.0182861700460496,0.1372997627811511
+3862,spam,ham,"hi babe its chloe, how r u? i was smashed on saturday night, it was great! how was your weekend? u been missing me? sp visionsms.com text stop to stop 150p/text",0.9798157425290036,0.0058282350600789,0.0143560224109139
+1168,smishing,ham,bloomberg -message center +447797706009 why wait? apply for your futur,0.6630754285116449,0.1747075679205117,0.1622170035678405
+1282,smishing,ham,ur mobile number won 2crores 35lakh rupees in chevrolet motors award 2015 for claim send name phone number address age to email:chevmotorlondon@hotmail.com,0.6230351213772285,0.2880817648387273,0.0888831137840444
+4302,spam,ham,fantasy football is back on your tv. go to sky gamestar on sky active and play £250k dream team. register now!sky opt out to 88088,0.8016250433757398,0.0671973715994683,0.1311775850247951
+1984,smishing,ham,reply with your name and address and you will receive by post a weeks completely free accommodation at various global locations www.phb1.com ph:08700435505150p,0.810593961873549,0.0895795077374879,0.0998265303889647
+4393,spam,ham,"all the lastest from stereophonics, marley, dizzee racal, libertines and the strokes! win nookii games with flirt!! click themob wap bookmark or text wap to 82468",0.672429589117272,0.088022988185124,0.2395474226976018
+5570,smishing,spam,freemsg why haven't you replied to my text? i'm female and live local. luv to hear from u. netcollex ltd 08700621170150p per msg reply stop to end,0.4436245799036222,0.0794198333568915,0.4769555867394833
+1600,spam,ham,"hungry gay guys feeling hungry and up 4 it, now. call 08718730555 just 10p/min. to stop texts call 08712460324 (10p/min)",0.7720099084453568,0.0637106352019987,0.1642794563526411
+2357,smishing,ham,someone has conacted our dating service and entered your phone because they fancy you!to find out who it is call from landline 09111030116. pobox12n146tf15,0.546517749141977,0.4270559395563207,0.0264263113017057
+2529,spam,ham,only for girls bba/mba/executive mba/b.sc.it/bio tech/b.tech flexible timings govt.recognized(www.bsaitm.in) join bsaitm vikaspuri 9873000679/9650354070,0.8074525547911635,0.0643306998731714,0.1282167453356664
+913,smishing,ham,you have 1 new message. please call 08712400200.,0.5091832209568221,0.4660462473035126,0.024770531739667
+2865,smishing,ham,"congratulations!!! you are due for a covid-19 grant, to redeem,contact us via email: covid19grant@cokegrant.com",0.4777353925644279,0.4757921825029703,0.0464724249325999
+2389,spam,ham,"hello darling how are you today? i would love to have a chat, why dont you tell me what you look like and what you are in to sexy?",0.9988746321418888,0.0004963269627625,0.0006290408953479
+365,smishing,ham,bmo have noticed unusual activites on your online account. you are required to verify your account details.www.97bmo.tk,0.6417986354323193,0.3152968450575504,0.0429045195101306
+4589,spam,ham,interflora - it's not too late to order interflora flowers for christmas call 0800 505060 to place your order before midnight tomorrow.,0.9828605586087504,0.0104019505632515,0.0067374908280002
+5165,spam,ham,"hi this is amy, we will be sending you a free phone number in a couple of days, which will give you an access to all the adult parties...",0.9913748860233298,0.0051217508427468,0.0035033631339247
+5083,spam,ham,send a logo 2 ur lover - 2 names joined by a heart. txt love name1 name2 mobno eg love adam eve 07123456789 to 87077,0.7872243172651286,0.0278980134707117,0.1848776692641574
+1699,spam,ham,warner village 83118 c colin farrell in swat this wkend @warner village & get 1 free med. popcorn!just show msg+ticket@kiosk.valid 4-7/12. c t&c @kiosk. reply sony 4 mre film offers,0.7840447055929296,0.0906378263230102,0.1253174680840608
+641,smishing,ham,call from 08702490080 - tells u 2 call 09066358152 to claim £5000 prize. u have 2 enter all ur mobile & personal details @ the prompts. careful!,0.4849272802416149,0.4317518180479339,0.0833209017104519
+1162,spam,ham,"free2day sexy st george's day pic of jordan!txt pic to 89080 dont miss out, then every wk a saucy celeb!4 more pics c pocketbabe.co.uk 0870241182716 £3/wk",0.4474924475448646,0.1473542474662723,0.405153304988865
+4198,smishing,ham,majestic mountains to calm beaches. adventure holidays to quiet getaways. manali to ooty. puri to munnar. holiday for 25 years.emis frm rs.2366. t&c. 9895930777,0.8314401623501545,0.0939071431848007,0.0746526944650447
+4837,spam,ham,thanks for your subscription to ringtone uk your mobile will be charged £5/month please confirm by replying yes or no. if you reply no you will not be charged,0.8711428671898781,0.0449185925824148,0.0839385402277035
+4142,spam,ham,"accordingly. i repeat, just text the word ok on your mobile phone and send",0.8482311960968205,0.0388842339761264,0.1128845699270535
+4890,spam,ham,bloomberg -message center +447797706009 why wait? http://careers. bloomberg.com,0.382798458369696,0.3532846176304403,0.263916923999863
+1397,spam,ham,adult 18 content your video will be with you shortly,0.7846659438618541,0.1048311066099514,0.1105029495281938
+4350,spam,smishing,win a year supply of cds 4 a store of ur choice worth £500 & enter our £100 weekly draw txt music to 87066 ts&cs www.ldew.com.subs16+1win150ppmx3,0.0300115055662637,0.6728531931251157,0.2971353013086193
+2637,spam,ham,"ramprastha has launched the edge towers in gurgaon, @2800/-*home loan @ 0*% just pay 15% now & emi starts on possession 2/3/4 bhk luxurious flats cal- 9650988282",0.8960018268065665,0.0377429709420208,0.0662552022514117
+4374,spam,ham,money i have won wining number 946 wot do i do next,0.960760493408806,0.0332008107242295,0.0060386958669629
+579,spam,ham,ur balance is now £500. ur next question is: who sang 'uptown girl' in the 80's ? 2 answer txt ur answer to 83600. good luck!,0.8947475329218868,0.0196039481300276,0.0856485189480831
+3586,spam,ham,mobile club: choose any of the top quality items for your mobile. 7cfca1a,0.7189873585182781,0.0816040387888856,0.199408602692835
+2579,smishing,ham,for taking part in our mobile survey yesterday! you can now have 500 texts 2 use however you wish. 2 get txts just send txt to 80160 t&c www.txt43.com 1.50p,0.8576424563636511,0.0411114720580791,0.1012460715782721
+3244,smishing,ham,"to cancel this order you should visit http/aetacms.com/.cas/auo.html/redirect-aopis.it to review your details. if you need additional help, contact apple support.",0.9346633863857252,0.0441366884631946,0.0211999251510797
+2969,smishing,ham,hey i am really * want to chat or see me text to 08718738034,0.9690706724929208,0.0109702103365739,0.0199591171705047
+4525,smishing,ham,dear voucher holder 2 claim your 1st class airport lounge passes when using your holiday voucher call 08704439680. when booking quote 1st class x 2,0.6698633113196916,0.2249312983125407,0.1052053903677706
+5464,spam,ham,plan sanction as per mpd2021 x-tra floor x-tra area dda mcd dsidc huda:gurgaon faridabad noida hi-tech architects 9212012222 65657777 hi_tech@in.com,0.7782390173079708,0.0593048710442254,0.1624561116478022
+1310,spam,ham,(bank of granite issues strong-buy) explosive pick for our members *****up over 300% *********** nasdaq symbol cdgt that is a $5.00 per..,0.9460766034129564,0.0325393282101237,0.0213840683769233
+2349,spam,smishing,win a year supply of cds 4 a store of ur choice worth £500 & enter our £100 weekly draw txt music to 87066 ts&cs www.ldew.com,0.0300115055662637,0.6728531931251157,0.2971353013086193
+2960,smishing,spam,you have won a nokia 7250i. to take part send nokia to 86021 now. hg/suite342/2lands row/w1jhl 16+,0.0843848442306088,0.2600833109687682,0.6555318448006251
+959,smishing,ham,englishvocabulary ululate: to mourn loudly and shrilly ad: unlimited free calls to any mobile try out today http://bit.ly/unlmtdfreecall share wid frnd,0.8339602377689506,0.0965497037816143,0.0694900584494355
+5328,spam,ham,ur tonexs subscription has been renewed and you have been charged £4.50. you can choose 10 more polys this month. www.clubzed.co.uk *billing msg*,0.6839175595493386,0.1687613547879255,0.1473210856627327
+1958,spam,ham,life has never been this much fun and great until you came in. you made it truly special for me. i won't forget you! enjoy @ one gbp/sms,0.9905014896589056,0.0056942865891022,0.0038042237519919
+4468,smishing,ham,"shop till u drop, is it you, either 10k, 5k, £500 cash or £100 travel voucher, call now, 09064011000.",0.6983975521760429,0.2470802135755421,0.0545222342484136
+5094,spam,ham,only 1 day left for sawan ki bahar compt. for agents/dos/clias. qualify the competition and win maximum prizes...sdm,0.8880831039759582,0.0460775553844035,0.0658393406396369
+2669,smishing,ham,text & meet someone sexy today. u can find a date or even flirt its up to u. join 4 just 10p. reply with name & age eg sam 25. 18 -msg recd@thirtyeight pence,0.8795553145014541,0.0304471840784443,0.0899975014201042
+5675,spam,ham,willing i live local to you - text a reply to hear strt back from me 150p per msg netcollex ltdhelpdesk: 02085076972 reply stop to end,0.6593078818852196,0.0659091642255697,0.2747829538892082
+1868,smishing,ham,friendly reminder don't forget to confirm your sam update from the other day! http://rghst.us/htcdlas reply stop to opt out,0.6448191248113447,0.2120470408511812,0.1431338343374728
+1862,spam,ham,can u get 2 phone now? i wanna chat 2 set up meet call me now on 09096102316 u can cum here 2moro luv jane xx calls£1/minmoremobsemspobox45po139wa,0.9849325775678232,0.0040553481994093,0.0110120742327678
+3337,smishing,ham,"dear customer your order of 42.84 euro has been approved if you didnt purchased anything or it you believe an unauthorized person has accessed your account, please access the link below http:/95.141.32.7:81/orders.aspx",0.7287695119041839,0.2535032853840491,0.0177272027117703
+2841,spam,ham,from 88066 lost £12 help,0.8783783582394092,0.0628846938155887,0.0587369479450037
+1020,spam,ham,"will u meet ur dream partner soon? is ur career off 2 a flyng start? 2 find out free, txt horo followed by ur star sign, e. g. horo aries",0.954255564001387,0.0213480530693629,0.024396382929252
+2327,smishing,ham,"your iphone id is due to expire today, please tap https://is.gd/appverify to update and prevent loss of services and apps.",0.7620716941374106,0.1910115608726659,0.0469167449899244
+2400,smishing,ham,you have exited the specified 1 mile radius on three separate occasions today. a penalty notice has been issued to your address held on the electoral roll. more info & appeals can be filed at gov.uk/cvpenalty stay at home. protect the nhs. save lives.,0.8994780460886249,0.0674622459483048,0.03305970796307
+5151,spam,ham,thesmszone.com lets you send free anonymous and masked messages..im sending this message from there..do you see the potential for abuse???,0.9863598433128664,0.0063436759312143,0.0072964807559189
+1907,spam,ham,sms. ac sptv: the new jersey devils and the detroit red wings play ice hockey. correct or incorrect? end? reply end sptv,0.7960391606797084,0.038510809192613,0.1654500301276796
+828,spam,ham,ringtoneking 84484,0.8339443605779598,0.0910071166702609,0.0750485227517791
+120,spam,ham,ever thought about living a good life with a perfect partner? just txt back name and age to join the mobile community. (100p/sms),0.890468530184855,0.0207261293376882,0.0888053404774554
+678,smishing,ham,tells u 2 call 09066358152 to claim £5000 prize. u have 2 enter all ur mobile & personal details @ the prompts. careful!,0.4982705321259955,0.4166766030091874,0.0850528648648183
+3981,smishing,ham,natalja (25/f) is inviting you to be her friend. call 08718738034,0.5521098788389256,0.3545951046869401,0.093295016474136
+3176,spam,ham,"no emi till possession. today group on noida exprsway offer once upon life time offer 2br-930sft-rs15, 046pm sample appt ready 5min from amity 9999975317",0.9579344090276106,0.0139601750548691,0.0281054159175212
+2367,spam,ham,"rock yr chik. get 100's of filthy films &xxx pics on yr phone now. rply filth to 69669. saristar ltd, e14 9yt 08701752560. 450p per 5 days. stop2 cancel",0.6534868673014609,0.0858683492386666,0.2606447834598746
+5745,spam,ham,"had your mobile 10 mths? update to the latest camera/video phones for free. keep ur same number, get extra free mins/texts. text yes for a call",0.4478933558049862,0.2246882890608142,0.3274183551342007
+1822,spam,smishing,you have an important customer service announcement from premier.,0.2324413023686986,0.7405757695824936,0.0269829280488094
+5244,smishing,ham,(6171-m) rmo.00 aeon my rs. 4399 was charged on your card num**97 at lazo-klia2 on 19/10/2016. call 0327884425 if you did not perform this txn code356931,0.9169738197061792,0.0670283327655497,0.0159978475282725
+539,smishing,ham,please call 08712402578 immediately as there is an urgent message waiting for you,0.5972138077878165,0.3903485633132805,0.0124376288989006
+3980,smishing,ham,someone has contacted our dating service and entered your phone because they fancy you! to find out who it is call from a landline 09111032124 . pobox12n146tf150p,0.4931396872154022,0.4788574524223938,0.0280028603622035
+4992,spam,ham,non-stop internet and downloading with pocket internet. dial *234*2900# and get games at a special price of rs.3 everyday. click and play: http://goo.gl/irrij,0.7062771348877347,0.14699017281926,0.1467326922930086
+940,spam,smishing,had your mobile 11mths+? you are entitled to update to the latest colour camera mobile for free! call the mobile update co free on 08002986907,0.0473335900306962,0.803444037814977,0.1492223721543265
+2549,spam,ham,need to clear doubts before exams? experienced tutors help is just a click away- free helpdesk round the clock. just logon to eagetutor.com or call 011-46592191,0.9357872225896654,0.0299138220002326,0.0342989554101038
+3540,spam,ham,how come it takes so little time for a child who is afraid of the dark to become a teenager who wants to stay out all night?,0.9947714057521656,0.0032706179247877,0.0019579763230445
+836,spam,ham,"new tones this week include: 1)mcfly-all ab.., 2) sara jorge-shock.. 3) will smith-switch.. to order follow instructions on next message",0.9005031385402699,0.0303404520240541,0.069156409435676
+3547,spam,smishing,08714712388 between 10am-7pm cost 10p,0.244736160703407,0.6359730463100989,0.1192907929864944
+4306,spam,ham,get a brand new mobile phone by being an agent of the mob! plus loads more goodies! for more info just text mat to 87021.,0.8120745042197682,0.035226033332634,0.1526994624475969
+3324,smishing,ham,friendly reminder- don't forget to confirm your sam update from the other day! http://rghst.rocks/ gbs630y,0.8534558612952411,0.0909150367470674,0.0556291019576935
+372,smishing,ham,"your tax refund of 349.14 is ready to be claimed. to access your refund, follow the steps required. http:/bit.do/claim-tax",0.5827768298871245,0.3268087880901344,0.0904143820227422
+2165,spam,ham,cashbin.co.uk (get lots of cash this weekend!) www.cashbin.co.uk dear welcome to the weekend we have got our biggest and best ever cash give away!! these..,0.8314894048396937,0.0839699596199516,0.0845406355403511
+4056,spam,ham,dating:i have had two of these. only started after i sent a text to talk sport radio last week. any connection do you think or coincidence?,0.9937254002770504,0.0031718098217057,0.0031027899012441
+3275,spam,ham,22 days to kick off! for euro2004 u will be kept up to date with the latest news and results daily. to be removed send get txt stop to 83222,0.7148369269007592,0.03452162181069,0.2506414512885481

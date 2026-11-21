@@ -1,0 +1,4 @@
+﻿label_norm,EMAIL,PHONE,URL
+ham,0.02,0.14,0.17
+spam,1.43,63.39,20.25
+smishing,1.72,82.6,15.67

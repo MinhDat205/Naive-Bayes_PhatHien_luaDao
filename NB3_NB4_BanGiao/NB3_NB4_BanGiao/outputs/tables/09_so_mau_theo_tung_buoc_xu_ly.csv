@@ -1,0 +1,7 @@
+﻿Bước xử lý,Tổng số mẫu,ham,spam,smishing,Số dòng bị loại ở bước này
+0. Dữ liệu gốc,5971,4844,489,638,0
+1. Chuẩn hóa nhãn & cột cờ,5971,4844,489,638,0
+2. Làm sạch văn bản (chưa bỏ dòng),5971,4844,489,638,0
+3. Loại dòng rỗng,5971,4844,489,638,0
+4. Xử lý xung đột nhãn (drop),5903,4844,455,604,68
+5. Loại dòng trùng cùng nhãn,5797,4834,435,528,106

@@ -1,0 +1,45 @@
+﻿test_index,id,y_test,y_pred,text_clean,y_pred_v1,v1_probability_ham,v1_probability_smishing,v1_probability_spam
+12,5717,spam,ham,"hi ya babe x u 4goten bout me?' scammers getting smart..though this is a regular vodafone no, if you respond you get further prem rate msg/subscription. other nos used also. beware!",ham,0.9920880328458292,0.0041876541042858,0.0037243130498842
+56,5258,spam,ham,"in the simpsons movie released in july 2007 name the band that died at the start of the film? a-green day, b-blue day, c-red day. (send a, b or c)",ham,0.9947472502865106,0.001669398742777,0.0035833509707123
+69,4627,spam,ham,"did you hear about the new ""divorce barbie""? it comes with all of ken's stuff!",ham,0.9942902878319376,0.0024603013775295,0.0032494107905312
+120,4249,ham,smishing,"we have sent jd for customer service cum accounts executive to ur mail id, for details contact us",ham,0.8575596667761008,0.1140886388859412,0.0283516943379594
+123,174,ham,spam,at 4. let's go to bill millers,ham,0.9769063196794426,0.0072192567908436,0.0158744235297123
+143,3862,spam,ham,"hi babe its chloe, how r u? i was smashed on saturday night, it was great! how was your weekend? u been missing me? sp visionsms.com text stop to stop 150p/text",ham,0.9798157425290036,0.0058282350600789,0.0143560224109139
+160,1168,smishing,spam,bloomberg -message center +447797706009 why wait? apply for your futur,ham,0.6630754285116449,0.1747075679205117,0.1622170035678405
+179,1984,smishing,spam,reply with your name and address and you will receive by post a weeks completely free accommodation at various global locations www.phb1.com ph:08700435505150p,ham,0.810593961873549,0.0895795077374879,0.0998265303889647
+185,4811,ham,smishing,26th of july,ham,0.8556074041581879,0.0835997415913191,0.0607928542504923
+192,1780,ham,spam,this phone has the weirdest auto correct.,ham,0.9513875669451206,0.0316053935227789,0.0170070395320986
+208,5570,smishing,spam,freemsg why haven't you replied to my text? i'm female and live local. luv to hear from u. netcollex ltd 08700621170150p per msg reply stop to end,spam,0.4436245799036222,0.0794198333568915,0.4769555867394833
+233,5750,ham,spam,well i will watch shrek in 3d!!b),ham,0.9533460573177528,0.0171449632242094,0.029508979458036
+305,2389,spam,ham,"hello darling how are you today? i would love to have a chat, why dont you tell me what you look like and what you are in to sexy?",ham,0.9988746321418888,0.0004963269627625,0.0006290408953479
+330,4589,spam,ham,interflora - it's not too late to order interflora flowers for christmas call 0800 505060 to place your order before midnight tomorrow.,ham,0.9828605586087504,0.0104019505632515,0.0067374908280002
+337,5165,spam,ham,"hi this is amy, we will be sending you a free phone number in a couple of days, which will give you an access to all the adult parties...",ham,0.9913748860233298,0.0051217508427468,0.0035033631339247
+375,4198,smishing,spam,majestic mountains to calm beaches. adventure holidays to quiet getaways. manali to ooty. puri to munnar. holiday for 25 years.emis frm rs.2366. t&c. 9895930777,ham,0.8314401623501545,0.0939071431848007,0.0746526944650447
+422,4350,spam,smishing,win a year supply of cds 4 a store of ur choice worth £500 & enter our £100 weekly draw txt music to 87066 ts&cs www.ldew.com.subs16+1win150ppmx3,smishing,0.0300115055662637,0.6728531931251157,0.2971353013086193
+425,4374,spam,smishing,money i have won wining number 946 wot do i do next,ham,0.960760493408806,0.0332008107242295,0.0060386958669629
+474,2579,smishing,spam,for taking part in our mobile survey yesterday! you can now have 500 texts 2 use however you wish. 2 get txts just send txt to 80160 t&c www.txt43.com 1.50p,ham,0.8576424563636511,0.0411114720580791,0.1012460715782721
+510,3244,smishing,spam,"to cancel this order you should visit http/aetacms.com/.cas/auo.html/redirect-aopis.it to review your details. if you need additional help, contact apple support.",ham,0.9346633863857252,0.0441366884631946,0.0211999251510797
+511,2969,smishing,spam,hey i am really * want to chat or see me text to 08718738034,ham,0.9690706724929208,0.0109702103365739,0.0199591171705047
+532,1046,ham,spam,dhoni have luck to win some big title.so we will win:),ham,0.93989483581503,0.0288460446779241,0.0312591195070448
+537,4525,smishing,spam,dear voucher holder 2 claim your 1st class airport lounge passes when using your holiday voucher call 08704439680. when booking quote 1st class x 2,ham,0.6698633113196916,0.2249312983125407,0.1052053903677706
+594,2349,spam,smishing,win a year supply of cds 4 a store of ur choice worth £500 & enter our £100 weekly draw txt music to 87066 ts&cs www.ldew.com,smishing,0.0300115055662637,0.6728531931251157,0.2971353013086193
+599,2960,smishing,spam,you have won a nokia 7250i. to take part send nokia to 86021 now. hg/suite342/2lands row/w1jhl 16+,spam,0.0843848442306088,0.2600833109687682,0.6555318448006251
+607,1958,spam,ham,life has never been this much fun and great until you came in. you made it truly special for me. i won't forget you! enjoy @ one gbp/sms,ham,0.9905014896589056,0.0056942865891022,0.0038042237519919
+659,2669,smishing,spam,text & meet someone sexy today. u can find a date or even flirt its up to u. join 4 just 10p. reply with name & age eg sam 25. 18 -msg recd@thirtyeight pence,ham,0.8795553145014541,0.0304471840784443,0.0899975014201042
+736,5151,spam,ham,thesmszone.com lets you send free anonymous and masked messages..im sending this message from there..do you see the potential for abuse???,ham,0.9863598433128664,0.0063436759312143,0.0072964807559189
+780,828,spam,ham,ringtoneking 84484,ham,0.8339443605779598,0.0910071166702609,0.0750485227517791
+788,5119,ham,spam,what's ur pin?,ham,0.939914175472646,0.0243508389383937,0.0357349855889596
+844,3086,ham,spam,70 mins but i had to stop somewhere first.,ham,0.956180483877442,0.014461392055188,0.0293581240673706
+892,1822,spam,smishing,you have an important customer service announcement from premier.,smishing,0.2324413023686986,0.7405757695824936,0.0269829280488094
+943,4640,ham,spam,can... i'm free...,ham,0.931726951780992,0.0241423272900269,0.0441307209289818
+962,940,spam,smishing,had your mobile 11mths+? you are entitled to update to the latest colour camera mobile for free! call the mobile update co free on 08002986907,smishing,0.0473335900306962,0.803444037814977,0.1492223721543265
+966,1404,ham,smishing,tiwary to rcb.battle between bang and kochi.,ham,0.8731673303366838,0.0802532331633011,0.0465794365000146
+977,5046,ham,spam,wow v v impressed. have funs shopping!,ham,0.9271613117228782,0.0480531330684001,0.024785555208721
+1008,3715,ham,spam,no pic. please re-send.,ham,0.956175685129034,0.0237645742367385,0.0200597406342284
+1019,3540,spam,ham,how come it takes so little time for a child who is afraid of the dark to become a teenager who wants to stay out all night?,ham,0.9947714057521656,0.0032706179247877,0.0019579763230445
+1056,3547,spam,smishing,08714712388 between 10am-7pm cost 10p,smishing,0.244736160703407,0.6359730463100989,0.1192907929864944
+1073,3324,smishing,ham,friendly reminder- don't forget to confirm your sam update from the other day! http://rghst.rocks/ gbs630y,ham,0.8534558612952411,0.0909150367470674,0.0556291019576935
+1074,1092,ham,spam,i liked your new house,ham,0.8961611074114506,0.051737678566479,0.0521012140220712
+1123,4056,spam,ham,dating:i have had two of these. only started after i sent a text to talk sport radio last week. any connection do you think or coincidence?,ham,0.9937254002770504,0.0031718098217057,0.0031027899012441
+1142,3302,ham,smishing,thank u!,ham,0.9081684278117884,0.0671031569178454,0.0247284152703655
+1152,5024,ham,smishing,what is your account number?,ham,0.9129866214813972,0.0723534723948443,0.0146599061237571
